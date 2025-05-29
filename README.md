@@ -1,4 +1,8 @@
 # odin-recipes
-Hello, I'm currently starting work on the odin-recipes project for Project Odin.
-So far I've learned a lot while being pretty tech savvy already.
-Once I've completed this project I will write more to reflect on where I started to where I am then.
+This is the Odin Recipes project from Project Odin
+
+I created an Index page that acts like a Homepage that directs to three different recipes.
+Added a redirect back to the Homepage
+Included an image for each one
+Created an unorded list for the ingredients
+Created an orded list for the steps
